@@ -26,7 +26,9 @@ W = group:wood, S = group:stone
 ```
 
 2. Chat command
-Simply enter the command: `/item-exchanger` in chat, and if server has not disabled it, you will be given an Exchanger
+Simply enter the command: `/item-exchanger` in chat, and if server has not disabled it, you will be given an Exchanger.
+
+Or enter: `/exchanger-menu` in chat, also if the server has not disabled it, displays the Exchanger menu.
 
 ## Dependencies
 - [Respec](https://content.luanti.org/packages/ZenonSeth/respec/): formspec creation library, which itself has no dependencies.
@@ -35,7 +37,7 @@ Simply enter the command: `/item-exchanger` in chat, and if server has not disab
 
 Exchanger functionality (listing conflicts and allowing exchanges) is compatible with any game.
 
-The Exchanger's crafting recipe users group names, not specific items, so it is compatible with any default- and mcl- based games. 
+The Exchanger's crafting recipe users group names, not specific items, so it is compatible with any default- and mcl- based games.
 
 It's also possible to obtain the Exchanger via a console command, which does not depend on any specific game.
 
